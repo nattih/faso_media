@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-6">
                 <div class="row">
-                 
+
                 <div class="col-4">
                 <form action="{{route('categorie')}}" method="post">
                 @csrf
